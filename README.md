@@ -1,5 +1,7 @@
 # ai-catalog-cli
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Agent-Card/ai-catalog-cli/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Agent-Card/ai-catalog-cli)
+
 Command-line tool for inspecting, validating, and packaging
 [AI Catalog](https://agent-card.github.io/ai-catalog/) documents.
 
